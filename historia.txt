@@ -1,7 +1,7 @@
-Esta es la historia de nicolas
+Esta es la historia de Nicolas
 
 22 años
 
-vive en rosario
+Vive en rosario
 
-Esta haciendo curso de git
+Esta haciendo curso de git y github
