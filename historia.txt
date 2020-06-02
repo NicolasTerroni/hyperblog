@@ -1,11 +1,2 @@
-Esta es la historia de Nicolas
-
-22 años. 16 de agosto
-
-Vive en rosario
-
-Muy inteligente.
-
-Estudia. O eso dice.
-
-vamos por el rebase
+En el 2020, año de locos, decidi volverme programador, este fue uno de los primeros cursos que tome. Aprendiendo a trabajar con el sistema de control de versiones Git, y el de repositorios remotos, GitHub. 
+Fundamental para llevar proyectos, ya sea solo o en equipo.
