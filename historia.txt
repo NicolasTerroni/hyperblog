@@ -4,10 +4,8 @@ Esta es la historia de Nicolas
 
 Vive en rosario
 
-<<<<<<< HEAD
 Muy inteligente.
 
 Estudia. O eso dice.
-=======
-Esta haciendo curso de git y github
->>>>>>> cabecera
+
+vamos por el rebase
